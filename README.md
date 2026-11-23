@@ -1,11 +1,11 @@
 # homebrew-tap
 
-Homebrew formulas for [lh330250925](https://github.com/lh330250925) projects.
+Homebrew formulas for [lhxn](https://github.com/lhxn) projects.
 
 ## Install `konyac`
 
 ```bash
-brew install lh330250925/tap/konyac
+brew install lhxn/tap/konyac
 ```
 
 ### Start background daemon
@@ -17,4 +17,4 @@ cp "$(brew --prefix)/share/konyac/config.example.toml" ~/.config/konyac/config.t
 brew services start konyac
 ```
 
-Main repository: https://github.com/lh330250925/Konyac
+Main repository: https://github.com/lhxn/Konyac
